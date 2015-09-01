@@ -24,12 +24,10 @@ Nanometer Process Machine
 Nanoprogrammed Penultimate Musicianship
 Nanoscale Parts Manufacturing
 Nanotechnology Promises Much
+Nap Power: Maximum
 Napolean Paced Mischeviously
 Napping Panda Missionaries
 Naps Per Month
-Nap Power: Maximum
-Narnia Protect Me
-Narnia's Poofy Meatcleaver
 Narcissistic Passion Minified
 Narcissistic Pickle Meister
 Narcissistic, Perfectly Modest
@@ -38,6 +36,8 @@ Narcoleptic Pony Machine
 Narcoleptic Possum Mob
 Narcoleptic Programmers' Medicine
 Narcoleptic's Patch Mangler
+Narnia Protect Me
+Narnia's Poofy Meatcleaver
 Narrating Prophetic Monks
 Narwhal Parade Maestro
 Narwhals Poke Mammals
@@ -115,12 +115,13 @@ Nefarious Punk Monk
 Nefariously Programmed Mecha
 Negatively Proportional Model
 Negatory. Postpone Mission.
-Neglected Pulse Machine
 Neglected Parking Meter
+Neglected Pulse Machine
 Negligible Participation Metric
-Neighbourhood Party Manager
 Neighbor's Preppy Maltese
+Neighbourhood Party Manager
 Neil Patrick's Mansion
+Neo's Personal Matrix
 Neoanthropic Preternatural Murmurings
 Neoclassical Piano Montage
 Neoclassical Programming Multitude
@@ -128,16 +129,15 @@ Neocon Propaganda Machine
 Neodymium Plated Magnet
 Neologistic Paraphasic Mumbling
 Neon Papier Mâché
-Neo's Personal Matrix
 Neophobe Plebeian Mumpsimus
 Neopolitan Pizza Maker
 Neovictorian Paisley Menswear
 Nepotistic Pontifex Maximus
 Neptune's Personal Maid
 Neptunium, Promethium, Manganese
+Nerd Play Mate
 Nerdiest Political Manifesto
 Nerdiest Precious Modules
-Nerd Play Mate
 Nerds Pledge Magnanimously
 Nerds Produce Money
 Nerds Publishing Monstrosities
@@ -188,7 +188,6 @@ Neverending Programming Mistakes
 Neverending Prototype Mode
 Neverending Pun Machine
 Nevertheless Published Mine
-Newfangled Package Modernizer
 New Patch, Merge?
 New Personal Mail
 New Phone Models
@@ -201,13 +200,14 @@ New Programs Makers
 New Project, Monday
 New Purple Moon
 Newbies Pass Muster
+Newfangled Package Modernizer
 Newline Proliferating Maniac
 Newly Paranoid Maintainers
 Newly Practicing Mortician
 Newly Pregnant Mom
 Newlywed Party Monsters
-Newtonian Particle Motion
 Newton's Programmatic Measurements
+Newtonian Particle Motion
 Newts Parading Majestically
 Newts Prefer MS-DOS
 Next Perpendicular Moonlanding
@@ -216,6 +216,7 @@ Next Prince Montage
 next() Packaged Middleware
 Nibble Plum Meringue
 Nicaragua's Pet Mice
+Nice Package Man
 Nice Package, Mate
 Nice Paintings, Mondrian
 Nice Pants, Man
@@ -231,8 +232,8 @@ Nicely Presented Misnomer
 Nicer Package Manager
 Nicer Perusal Method
 Niche Portobello Mushroom
-Nickel Plated Moose
 Nickel Palladium Manganese
+Nickel Plated Moose
 Nickelback Plays Music
 Nietzsche's Preposterous Moustache
 Nifty Pony Merchandise
@@ -269,9 +270,9 @@ Ninja Pokémon Master
 Ninja Programmers Mindmeld
 Ninja Pumpkin Mutants
 Nitrogen Poisonous Monoxide
-No Packages, Mate
 No Package Mishaps
 No Packages Misplaced
+No Packages, Mate
 No Padding Margin
 No Painful Merges
 No Pants Monkey
@@ -298,10 +299,10 @@ Nobel Prize Magnet
 Noble Programming Mantra
 Nobody Packages More
 Nobody Pays (for) Magazines
-Nobody Publish Monsters
-Nobody's Perfect, Man
 Nobody Picked Me
 Nobody Prefers Margarine
+Nobody Publish Monsters
+Nobody's Perfect, Man
 Noctiflorous Pansy Mulch
 Nocturnal Parakeet Monitor
 Nocturnal Practitioners of Magic
@@ -321,8 +322,8 @@ Node Popular Man
 Node Promiscuous Modules
 Node's Package Magician
 Node's Perpetuum Mobile
-Node's Play Mate
 Node's Personal Monk
+Node's Play Mate
 Node's Pocket Monsters
 Node's Power Meal
 Nodes Per Minute
@@ -342,14 +343,13 @@ Non-Polite Mother
 Non-Polynomial Mantissa
 Non-Potable Macchiato
 Non-Printable Material
-Nondeterministic Postrequisite Metaprotocol
-Nonvoluntary Professional Mangling
 Nonagons Please Me
 Nonchalantly Performs Magic
 Noncollinear Perpendicular Microcrystalline
 Noncommital Premarital Mischief
 Nonconformist Propaganda Machine
 Nondeterministic Polynomial Munchies
+Nondeterministic Postrequisite Metaprotocol
 Nondeterministic Programming Methodology
 Nonflavored Prescription Medicine
 Nonlinear Performance Magnification
@@ -358,6 +358,7 @@ Nonsense Placement Mandatory
 Nonsense Poetry Manager
 Nonstop Progressive Marxism
 Nonviolent Pigeon Manifestation
+Nonvoluntary Professional Mangling
 Noodle Printing Machine
 Noodly Pasta Maker
 Noosphere Possibilities Maximized
@@ -367,8 +368,8 @@ Norse Polytheistic Mythology
 North Pittsburgh Meatpackers
 North Pole Merriment
 Northern Pileated Marmoset
-Norvell, Please Merge
 Norvell's Public Machinations
+Norvell, Please Merge
 Norwegian Parcel Mail
 Norwegian Polka Music
 Norwegian Pony Master
@@ -427,9 +428,9 @@ Noxious Plant Miasma
 npm packaged modules
 npm private modules
 npm provides modules
+npm's pretty magical
 npm: package manager
 npm: possibly marvellous
-npm's pretty magical
 NTFS Path Mockery
 Nth Phonetic Mnemonic
 Nth Power Matrix
@@ -441,15 +442,14 @@ Nuclear Powered Mushroom
 Nuclear Pumpkin Mocha
 Nuclearly Potent Moonshine
 Nucleophosmin
-nuǝɯ pǝɥsᴉꞁod mǝu
 Nukem's Possible Manifestation
 Null Pointer Micromanagement
 Null Pointer Missing
 Numbers Prefer Multiplication
 Numerous Packages Multiply
+Numerous Problems Multiplied
 Numerous Pulls Merged
 Numerous Pulsating Martians
-Numerous Problems Multiplied
 Nuns Playing Monopoly
 Nupital Pomp Mesmerises
 Nurturing Palpable Magnificence
@@ -462,6 +462,7 @@ Nutritious Pumpkin Meal
 Nutty Penguin Music
 Nutty Professor Movie
 Nutty Programming Men
+nuǝɯ pǝɥsᴉꞁod mǝu
 Nybble Processing Mainframe
 Nymph-Pursuing Machine
 Nymphets Playing Mahjong
